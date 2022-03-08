@@ -1,0 +1,2 @@
+# CookieClicker
+for school purposes ;)
